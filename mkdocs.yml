@@ -1,0 +1,8 @@
+site_name: "pet-store-demo"
+site_description: "pet-store-demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
